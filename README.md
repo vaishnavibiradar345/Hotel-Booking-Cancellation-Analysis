@@ -1,4 +1,4 @@
-# Hotel Booking Cancell Analysis
+# Hotel Booking Cancellation Analysis
 
 ## Overview
 
